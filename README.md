@@ -55,7 +55,7 @@ I'm a fullstack developer, currently studying at the University of Waterloo.
 <br>
 <img src="https://img.shields.io/badge/-AutoHotkey-334455?logo=autohotkey&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-Visual studio Code-007ACC?logo=visual studio code&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=white&style=flat" /></span>
+<img src="https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black&style=flat" /></span>
 </span>
 
 ### Contact me
