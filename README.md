@@ -24,7 +24,7 @@ I'm a fullstack developer, currently studying at the University of Waterloo.
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-C Sharp-239120?logo=c sharp&logoColor=white&style=flat" />
