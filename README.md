@@ -54,4 +54,4 @@ I'm a fullstack developer, currently studying at the University of Waterloo.
 </span>
 
 ### Contact me
-<a href="expitau@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+<a href="mailto:expitau@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
