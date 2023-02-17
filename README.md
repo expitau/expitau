@@ -1,6 +1,6 @@
 ## Hello, world!
 
-I'm a fullstack developer, currently studying at the University of Waterloo.
+I'm a fullstack developer, currently studying Combinatorics & Optimization at the University of Waterloo.
 
 ### Tech Stack
 
