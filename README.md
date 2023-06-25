@@ -2,6 +2,9 @@
 
 I'm a fullstack developer, currently studying Combinatorics & Optimization at the University of Waterloo.
 
+### About me
+Highly motivated software developer with several years of professional experience and a proven ability to deliver high-quality, maintainable code. Enthusiastic about programming, with dozens of personal projects and a diverse range of interests. Seeking a challenging role to improve technical skills and contribute to innovative projects.
+
 ### Tech Stack
 
 #### Frontend
