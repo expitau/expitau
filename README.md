@@ -1,13 +1,29 @@
-## Hello, world!
+## Hello, world! :wave:
 
-I'm a fullstack developer, currently studying Combinatorics & Optimization at the University of Waterloo.
+I'm a fullstack developer, studying Combinatorics & Optimization and Computational Mathematics at the University of Waterloo.
 
-### About me
-Highly motivated software developer with several years of professional experience and a proven ability to deliver high-quality, maintainable code. Enthusiastic about programming, with dozens of personal projects and a diverse range of interests. Seeking a challenging role to improve technical skills and contribute to innovative projects.
+---
 
-### Tech Stack
+### :bulb: About me
+I'm a highly motivated software developer with several years of professional experience and a proven ability to deliver high-quality, maintainable code. I'm enthusiastic about programming, with dozens of personal projects and a diverse range of interests.
 
-#### Frontend
+---
+
+### :pencil2: Why "expitau"?
+
+The moniker "expitau" is inspired by the mathematical expression $\exp(i \tau)$ – an embodiment of Euler's formula: 
+
+$$e^{ix} = \cos(x) + i\sin(x)$$
+
+When $x = \tau$ (and $\tau = 2\pi$), this formula simplifies to $e^{i \tau} = 1$. Euler's formula, in its essence, is a beautiful, elegant solution to complex mathematical problems. It seamlessly bridges the seemingly unrelated worlds of calculus, trigonometry, and complex numbers.
+
+Such elegance and simplicity in solutions is the philosophy I cherish and strive to emulate in my programming. I believe that the most complex challenges often have an underlying simplicity, and code should strive to unearth this simplicity to be readable, maintainable, and efficient.
+
+---
+
+### :wrench: Tech Stack
+
+#### :art: Frontend
 <span>
 <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
@@ -21,10 +37,9 @@ Highly motivated software developer with several years of professional experienc
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=tailwind css&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
-<!--img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" /-->
 </span>
 
-#### Backend
+#### :gear: Backend
 <span>
 <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
@@ -40,7 +55,7 @@ Highly motivated software developer with several years of professional experienc
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
 </span>
 
-#### Tools
+#### :toolbox: Tools
 <span>
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" />
@@ -61,5 +76,7 @@ Highly motivated software developer with several years of professional experienc
 <img src="https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black&style=flat" /></span>
 </span>
 
-### Contact me
+---
+
+### :mailbox_with_mail: Get in Touch!
 <a title="expitau@gmail.com" href="mailto:expitau@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
