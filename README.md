@@ -5,7 +5,7 @@ I'm a fullstack developer, studying Combinatorics & Optimization and Computation
 ---
 
 ### :bulb: About me
-I'm a highly motivated software developer with several years of professional experience and a proven ability to deliver high-quality, maintainable code. I'm enthusiastic about programming, with dozens of personal projects and a diverse range of interests.
+I'm a highly motivated software developer with several years of professional experience and a proven ability to deliver high-quality, maintainable code. I'm enthusiastic about programming, with dozens of personal projects and a diverse range of interests. I use Fedora Linux, my favorite programming languages are Rust and Javascript (Vue), and I eat a lot of chicken ❤️
 
 ---
 
