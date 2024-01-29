@@ -2,6 +2,7 @@
   "name": "astro-blog-v2",
   "type": "module",
   "version": "0.0.1",
+  "packageManager": "pnpm@8.14.1",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
