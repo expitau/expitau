@@ -1,0 +1,8 @@
+title: 'PassBirb'
+description: 'Cryptographically-secure stateless password manager'
+longDescription: 'A cryptographically secure stateless password manager. Uses cryptographic key derivation to deterministically generate a uniques for different websites, without the need for a database.'
+pubDate: 'Mar 11 2023'
+heroImage: '/projects/Passbirb.jpg'
+liveUrl: 'https://expitau.github.io/Passbirb'
+url: 'https://github.com/expitau/Passbirb'
+priority: 2

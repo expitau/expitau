@@ -1,0 +1,8 @@
+title: 'Trout Bout'
+description: 'Realtime peer-to-peer optimized multiplayer web game'
+longDescription: 'A real-time multiplayer game developed collaboratively with @reumarks. Utilizes a custom game engine with peer-to-peer networking and rollback to achive minimal latency'
+pubDate: 'Oct 1 2022'
+heroImage: '/projects/Troutbout.jpg'
+liveUrl: 'https://expitau.github.io/Fishgame'
+url: 'https://github.com/expitau/Fishgame'
+priority: 3

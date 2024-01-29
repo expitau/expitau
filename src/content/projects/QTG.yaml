@@ -1,0 +1,6 @@
+title: 'QTG Documentation Platform'
+description: 'A documentation database for Questrade Technology Group'
+longDescription: 'A custom React interface for managing networking documentation, with realtime full-text search and rich text editing.'
+pubDate: 'Sept 1 2021'
+heroImage: '/projects/Questrade.jpg'
+priority: -1

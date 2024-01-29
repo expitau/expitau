@@ -1,0 +1,269 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="About">
+    <style>
+
+        img {
+            width: 100%;
+        }
+        h1 {
+            text-align: center;
+        }
+    </style>
+    <main>
+        <a
+            href="/"
+            style="display: flex; flex-direction: row; align-items: center; gap: 1rem;"
+            ><svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                stroke="currentColor"
+                width="24px"
+                height="24px"
+            >
+                <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    d="M6.75 15.75 3 12m0 0 3.75-3.75M3 12h18"></path>
+            </svg>
+            Back home</a
+        >
+        <h1>About me</h1>
+        <h2>Hello!</h2>
+        <p>
+            My name is Nathan, I'm a highly motivated software developer with
+            several years of professional experience and a proven ability to
+            write high-quality maintainable code when I can, and fast
+            solution-oriented programs when I must.
+        </p>
+        <p>
+            I am currently in my 4A term of studying Computational Mathematics
+            at the University of Waterloo. When I'm not contributing to open
+            source or tinkering with hardware, I spend time working on my many
+            personal projects, some of which you can find on <a
+                href="https://github.com/expitau">my GitHub</a
+            >
+        </p>
+        <h2>Technologies</h2>
+        <p>
+            I've worked with dozens of different technologies, and I'm always
+            keen to pick up more. This is not an exhaustive list, in no
+            particular order.
+        </p>
+        <h3 id="tech-frontend">Frontend</h3>
+        <div
+            style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.5rem"
+        >
+            {
+                [
+                    "Typescript-3178C6?logo=typescript&logoColor=white",
+                    "Javascript-FDCF08?logo=javascript&logoColor=white",
+                    "Vue.js-4FC08D?logo=vue.js&logoColor=white",
+                    "React-61DAFB?logo=react&logoColor=black",
+                    "Svelte-FF3E00?logo=svelte&logoColor=white",
+                    "Electron-47848F?logo=electron&logoColor=white",
+                    "SASS-CC6699?logo=sass&logoColor=white",
+                    "CSS3-1572B6?logo=css3&logoColor=white",
+                    "Tailwind CSS-06B6D4?logo=tailwind css&logoColor=white",
+                    "Bootstrap-7952B3?logo=bootstrap&logoColor=white",
+                ].map((badge) => {
+                    return (
+                        <img
+                            style="width: unset"
+                            src={`https://img.shields.io/badge/-${badge}&style=for-the-badge`}
+                        />
+                    );
+                })
+            }
+        </div>
+        <h3 id="tech-backend">Backend</h3>
+        <div
+            style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.5rem"
+        >
+            {
+                [
+                    "Rust-000000?logo=rust&logoColor=white",
+                    "Python-3776AB?logo=python&logoColor=white",
+                    "Node.js-339933?logo=node.js&logoColor=white",
+                    "C%20/%20C++-00599C?logo=c%2B%2B&logoColor=white",
+                    "C%23-239120?logo=c%23&logoColor=white",
+                    "PHP-777BB4?logo=php&logoColor=white",
+                    "R-276DC3?logo=r&logoColor=white",
+                    "PostgreSQL-4169E1?logo=postgresql&logoColor=white",
+                    "MongoDB-47A248?logo=mongodb&logoColor=white",
+                    "MySQL-4479A1?logo=mysql&logoColor=white",
+                ].map((badge) => {
+                    return (
+                        <img
+                            style="width: unset"
+                            src={`https://img.shields.io/badge/-${badge}&style=for-the-badge`}
+                        />
+                    );
+                })
+            }
+        </div>
+        <h3 id="tech-tooling">Tooling</h3>
+        <div
+            style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.5rem"
+        >
+            {
+                [
+                    "Git-F05032?logo=git&logoColor=white",
+                    "Docker-2496ED?logo=docker&logoColor=white",
+                    "CircleCI-343434?logo=circleci&logoColor=white",
+                    "Terraform-7B42BC?logo=terraform&logoColor=white",
+                    "Amazon AWS-232F3E?logo=amazon aws&logoColor=white",
+                    "Kubernetes-326CE5?logo=kubernetes&logoColor=white",
+                    "Portainer-13BEF9?logo=portainer&logoColor=white",
+                    "GNU Bash-4EAA25?logo=gnu bash&logoColor=white",
+                    "Linux-FCC624?logo=linux&logoColor=black",
+                    "Windows-0078D6?logo=windows&logoColor=white",
+                    "Powershell-5391FE?logo=powershell&logoColor=white",
+                    "AutoHotkey-334455?logo=autohotkey&logoColor=white",
+                    "Visual studio Code-007ACC?logo=visual studio code&logoColor=white",
+                    "Unity-DDDDDD?logo=unity&logoColor=black",
+                ].map((badge) => {
+                    return (
+                        <img
+                            style="width: unset"
+                            src={`https://img.shields.io/badge/-${badge}&style=for-the-badge`}
+                        />
+                    );
+                })
+            }
+        </div>
+
+        <h2>Tech Stack</h2>
+        <h3 id="software">Software</h3>
+        <p>
+            <strong
+                >OS | <a href="https://fedoraproject.org/">Fedora Linux</a
+                ></strong
+            > -- This is an amazing operating system, it's stable, responsive, and
+            I like GNOME (for now...). My dream is to switch to <a
+                href="https://fedoraproject.org/silverblue/"
+                >Fedora Silverblue</a
+            > one day, building my desktop as an OCI container in the cloud and pulling
+            in updates immutably. However, container diffs are a blocker for this
+            at the moment (See <a
+                href="https://github.com/containers/image/pull/902">#902</a
+            >).
+        </p>
+        <p>
+            <strong
+                >IDE | <a href="https://code.visualstudio.com/">VSCode</a
+                ></strong
+            > -- VSCode is an amazing editor, and while I've found it to be a bit
+            slow (for a text editor haha), I love the seamless remote development
+            integration, which is a dealbreaker for me in any other editor.
+        </p>
+        <p>
+            <strong>Subsystem | <a href="https://docker.com/">Docker</a></strong
+            > -- When switching to Linux from Windows, I missed WSL2. The ability
+            to have a work environment where I could install programs freely without
+            working about breaking my system was great. Fortunately, I was able to
+            recreate this (and more!) with pure Docker containers. They integrate
+            seamlessly with VSCode, and allowed me to develop with Ubuntu for my
+            previous job (so people couldn't blame me for using a different environment
+            when things broke) and Arch for my personal projects (so I get the most
+            up-to-date software without resorting to manually adding repos).
+        </p>
+        <p>
+            <strong
+                >Shell prompt | <a href="https://github.com/petobens/trueline"
+                    >Trueline</a
+                ></strong
+            > -- I wanted to like <a href="https://starship.rs/">starship.rs</a
+            >, I wanted to like <a
+                href="https://github.com/romkatv/powerlevel10k">powerlevel10k</a
+            >, but the config and installation was too annoying to maintain
+            across different environments. Trueline works exactly how I want it
+            to (almost) out of the box, and I can copy a single bash file around
+            to get the prompt anywhere.
+            <br /><br />
+            I also add the following to my <code>.bashrc</code> for a better experience
+            across different terminal emulators
+        </p>
+        <pre
+            style="background-color:#24292e;color:#e1e4e8; overflow-x: auto; padding: 1rem; border-radius: 0.5rem;"
+            tabindex="0"><code><span class="line"><span style="color:#B392F0">setopt</span><span style="color:#9ECBFF"> menu_complete</span><span style="color:#6A737D"> # Tab autocomplete</span></span>
+<span class="line"><span style="color:#79B8FF">unsetopt</span><span style="color:#9ECBFF"> auto_list</span><span style="color:#6A737D"> # Don't list options on tab</span></span>
+<span class="line" />
+<span class="line"><span style="color:#79B8FF">bindkey</span><span style="color:#9ECBFF">  "^[[H"</span><span style="color:#9ECBFF">   beginning-of-line</span><span style="color:#6A737D"> # Home key</span></span>
+<span class="line"><span style="color:#79B8FF">bindkey</span><span style="color:#9ECBFF">  "^[[F"</span><span style="color:#9ECBFF">   end-of-line</span><span style="color:#6A737D"> # End key</span></span>
+<span class="line"><span style="color:#79B8FF">bindkey</span><span style="color:#9ECBFF">  "^[[3~"</span><span style="color:#9ECBFF">  delete-char</span><span style="color:#6A737D"> # Delete key</span></span></code></pre>
+        <br />
+        <h3 id="extensions">Gnome extensions</h3>
+        <ul>
+            <li><strong>Blur my shell</strong> -- pretty!</li>
+            <li>
+                <strong>Tiling Assistant</strong> -- quarter tiling so good you'd
+                think it was built-in
+            </li>
+            <li>
+                <strong>Caffeine</strong> -- I use it more than I thought I would
+            </li>
+            <li>
+                <strong>Clipboard Indicator</strong> -- not perfect, I wish there
+                was something closer to Windows' clipboard history. Maybe I'll write
+                my own!
+            </li>
+            <li>
+                <strong>Color Picker</strong> -- great, works identical to the <a
+                    href="https://learn.microsoft.com/en-us/windows/powertoys/color-picker"
+                    >Powertoy on Windows</a
+                >
+            </li>
+            <li>
+                <s><strong>Dash to Panel</strong></s> -- if you're coming from Windows
+                and want this, it's amazing. I prefer stock GNOME though
+            </li>
+            <li>
+                <strong>GSConnect</strong> -- meh. It works, but isn't super useful
+            </li>
+            <li><strong>Just Perfection</strong> -- a few UI tweaks</li>
+        </ul>
+
+        <!-- Photo of laptop -->
+        <img src="/laptop-on-desk.jpg" style="margin-top: 2rem" alt="Laptop on desk" />
+        <p style="width: 100%; text-align: center">Photo credit: Phil Barker</p>
+        <h3 id="hardware">Hardware</h3>
+        <p>
+            <strong>Laptop | Dell XPS 17 9720</strong> -- This is current daily driver.
+            It's performance has been more than sufficient for my use, and I've encountered
+            none of the heating issues that I had with my previous (Lenovo T490)
+            laptop. It looks amazing, and the keyboard and trackpad feel great. However,
+            the webcam leaves some to be desired, and I miss my ethernet / HDMI /
+            USB-A ports. When docked at home, I connect it to two external displays
+            with a Dell USB hub (unfortunately, Dell's got me locked in to a 130W
+            hub), which works great but definitely isn't worth the price.
+        </p>
+        <p>
+            <strong>Displays | Asus VA24E</strong> -- I have two of these monitors,
+            and they're great. They're cheap, and the colours are good enough for
+            my use. I've set them up with a dual-monitor arm from Amazon, and they
+            can comfortably sit in any position. I wish they had displayport, but
+            I got the two of them for about $200 so I can't complain.
+        </p>
+        <p>
+            <strong>Mouse | MX Master 3</strong> -- I've been using this mouse for
+            a few months now, and I love it. The scroll wheel is amazing, and it's
+            super comfortable. While pricey, I don't regret the investment.
+        </p>
+        <p>
+            <strong>Phone | Pixel 4a</strong> -- This phone works great, I love the
+            fingerprint sensor placement, and the camera is more than enough for
+            me. It's been going strong for about 2-3 years now, and I'm going to
+            hold onto it as long as I can
+        </p>
+        <p>
+            <strong>Earbuds | Jabra Elite 4</strong> -- My first earbuds, that I
+            use on occasion. They're cheap, sound great, and are reasonably comfortable
+            (though I haven't used many other earbuds).
+        </p>
+    </main>
+</Layout>

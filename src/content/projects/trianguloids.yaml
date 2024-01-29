@@ -1,0 +1,7 @@
+title: 'Trianguloids'
+description: 'A unity game made in 48 hours for the GMTK 2020 Game Jam'
+longDescription: 'A unity shooter game made in 48 hours for the GMTK 2020 Game Jam. Features a procedurally generated world with cellular automata, and a fully destructuble player character.'
+pubDate: 'Jan 1 2020'
+heroImage: '/projects/Trianguloids.jpg'
+priority: 5
+liveUrl: 'https://expitau.itch.io/trianguloids'

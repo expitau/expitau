@@ -1,0 +1,7 @@
+title: 'MineNewt'
+description: 'Procedural Neural Networks in Minecraft'
+longDescription: 'A custom neural network library written in Rust, and python scripts for simulating stochastic neural networks and embedding them into Minecraft NBT world files.'
+pubDate: 'Jun 10 2023'
+heroImage: '/projects/MineNewt.png'
+url: 'https://github.com/expitau/MineNewt'
+priority: 1

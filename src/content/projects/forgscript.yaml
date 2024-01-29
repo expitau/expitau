@@ -1,0 +1,7 @@
+title: 'Forgscript'
+description: 'Collatz conjecture inspired esoteric programming language'
+longDescription: 'A well-documented esoteric programming language inspired by the Collatz conjecture. Written in Rust, and includes an interpreter and a VSCode extension that provides syntax highlighting and visualization tooling'
+pubDate: 'Aug 19 2022'
+heroImage: '/projects/Forgscript.jpg'
+url: 'https://github.com/expitau/Forgscript'
+priority: 4

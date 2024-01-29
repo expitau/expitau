@@ -1,0 +1,6 @@
+title: 'Discord Bots'
+description: 'A collection of discord bots written in Python and Node.js'
+longDescription: 'A collection of discord bots written in Python and Node.js that provide different functionality such as exporting and analyzing conversations, reverse-shell access to a remote machine, and a GPT-3 chatbot with the OpenAI API'
+pubDate: 'Jan 1 2020'
+heroImage: '/projects/Discord.jpg'
+priority: 6
