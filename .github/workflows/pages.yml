@@ -34,8 +34,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
-        run: pnpm i
-      - name: Build with astro
+        uses: pnpm/action-setup@v2.4.0
+        with:
+          run_install: true
+      - name: Build static files
         run: pnpm build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
