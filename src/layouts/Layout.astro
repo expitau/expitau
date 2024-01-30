@@ -22,18 +22,30 @@ const { title } = Astro.props;
 			rel="stylesheet"
 		/>
 		<script>
-			const blob = document.getElementById("blob");
-
-			document.body.onpointermove = (event) => {
-				const { clientX, clientY } = event;
-				blob.animate(
+			const blobElement = document.getElementById("blob");
+			function updateBlob(x, y) {
+				blobElement.animate(
 					{
-						left: `${clientX}px`,
-						top: `${clientY}px`,
+						left: `${x}px`,
+						top: `${y}px`,
 					},
 					{ duration: 3000, fill: "forwards" },
 				);
+			}
+
+			document.body.onpointermove = (event) => {
+				const { clientX, clientY } = event;
+				sessionStorage.setItem(
+					"lastMousePosition",
+					JSON.stringify({ x: clientX, y: clientY }),
+				);
+				updateBlob(clientX, clientY);
 			};
+			let { x, y } = JSON.parse(
+				sessionStorage.getItem("lastMousePosition"),
+			) || { x: 0, y: 0 };
+			blobElement.style.left = `${x}px`;
+			blobElement.style.top = `${y}px`;
 		</script></head
 	>
 
@@ -47,30 +59,30 @@ const { title } = Astro.props;
 </html>
 <style is:global>
 	main {
-		padding: 4rem 24rem;
+		padding-inline: 24rem;
 	}
 
 	@media (max-width: 1600px) {
 		main {
-			padding: 4rem 16rem;
+			padding-inline: 16rem;
 		}
 	}
 
 	@media (max-width: 1300px) {
 		main {
-			padding: 4rem 8rem;
+			padding-inline: 8rem;
 		}
 	}
 
 	@media (max-width: 720px) {
 		main {
-			padding: 4rem 6rem;
+			padding-inline: 6rem;
 		}
 	}
 
 	@media (max-width: 480px) {
 		main {
-			padding: 4rem 1rem;
+			padding-inline: 1rem;
 		}
 	}
 	h1 {
@@ -114,7 +126,7 @@ const { title } = Astro.props;
 	}
 
 	ul {
-		margin: 0
+		margin: 0;
 	}
 
 	a {
@@ -179,6 +191,7 @@ const { title } = Astro.props;
 		--transition-s: 0.1s;
 		--accent: #5eead4;
 		--accent-secondary: #5eead450;
+		color-scheme: dark;
 	}
 	html {
 		font-family: "Inter", sans-serif;
