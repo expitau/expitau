@@ -1,6 +1,6 @@
 ## Hello, world! :wave:
 
-I'm a fullstack developer, studying Combinatorics & Optimization and Computational Mathematics at the University of Waterloo.
+I'm Nathan, a fullstack developer studying Combinatorics & Optimization and Computational Mathematics at the University of Waterloo.
 
 ---
 
