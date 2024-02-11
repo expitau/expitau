@@ -34,16 +34,18 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
+        working-directory: ./website
         uses: pnpm/action-setup@v2.4.0
         with:
           run_install: true
       - name: Build static files
+        working-directory: ./website
         run: pnpm build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload dist folder
-          path: 'dist'
+          path: 'website/dist'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
