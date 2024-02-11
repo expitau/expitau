@@ -22,7 +22,6 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Single deploy job since we're just deploying
   deploy:
     environment:
       name: github-pages
@@ -34,12 +33,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
-        working-directory: ./website
         uses: pnpm/action-setup@v2.4.0
         with:
           run_install: true
       - name: Build static files
-        working-directory: ./website
         run: pnpm build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
