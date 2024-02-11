@@ -33,10 +33,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install pnpm
-        working-directory: ./website
+        working-directory: './website'
         uses: pnpm/action-setup@v2.4.0
       - name: Install dependencies and build
-        working-directory: ./website
+        working-directory: './website'
         run: |
           pnpm install
           pnpm build
