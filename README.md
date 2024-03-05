@@ -17,7 +17,7 @@ $$e^{ix} = \cos(x) + i\sin(x)$$
 
 When $x = \tau$ (and $\tau = 2\pi$), this formula simplifies to $e^{i \tau} = 1$. Euler's formula, in its essence, is a beautiful, elegant solution to complex mathematical problems. It seamlessly bridges the seemingly unrelated worlds of calculus, trigonometry, and complex numbers.
 
-Such elegance and simplicity in solutions is the philosophy I cherish and strive to emulate in my programming. I believe that the most complex challenges often have an underlying simplicity, and code should strive to unearth this simplicity to be readable, maintainable, and efficient.
+Such elegance and simplicity in solutions is the philosophy I strive to emulate in my programming. I believe that the most complex challenges often have an underlying simplicity, and code should look to unearth this simplicity to be readable, maintainable, and efficient.
 
 ---
 
