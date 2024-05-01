@@ -77,6 +77,8 @@ Such elegance and simplicity in solutions is the philosophy I strive to emulate 
 </span>
 
 ---
+[![expitau's GitHub stats](https://github-readme-stats.vercel.app/api?username=expitau&hide=issues,prs&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/expitau/expitau#gh-dark-mode-only)
+[![expitau's GitHub stats](https://github-readme-stats.vercel.app/api?username=expitau&hide=issues,prs&theme=default#gh-light-mode-only)](https://github.com/expitau/expitau#gh-light-mode-only)
 
 ### :mailbox_with_mail: Get in Touch!
 <a title="expitau@gmail.com" href="mailto:expitau@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
