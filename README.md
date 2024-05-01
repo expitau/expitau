@@ -77,8 +77,18 @@ Such elegance and simplicity in solutions is the philosophy I strive to emulate 
 </span>
 
 ---
-[![expitau's GitHub stats](https://github-readme-stats.vercel.app/api?username=expitau&hide=issues,prs&show_icons=true&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/expitau/expitau#gh-dark-mode-only)
-[![expitau's GitHub stats](https://github-readme-stats.vercel.app/api?username=expitau&hide=issues,prs&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/expitau/expitau#gh-light-mode-only)
+<a href="https://github.com/expitau#gh-dark-mode-only">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=expitau&hide=issues&show_icons=true&theme=github_dark_dimmed#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/expitau#gh-light-mode-only">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=expitau&hide=issues&show_icons=true&theme=default#gh-light-mode-only" />
+</a>
+<a href="https://github.com/expitau#gh-dark-mode-only">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expitau&hide=css,astro,jupyter%20notebook,vue,typescript&exclude_repo=Catgame,Timetable-Dashboard&layout=compact&theme=github_dark_dimmed#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/expitau#gh-light-mode-only">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expitau&hide=css,astro,jupyter%20notebook,vue,typescript&exclude_repo=Catgame,Timetable-Dashboard&layout=compact&theme=default#gh-light-mode-only" />
+</a>
 
 ### :mailbox_with_mail: Get in Touch!
 <a title="expitau@gmail.com" href="mailto:expitau@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
