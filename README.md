@@ -1,82 +1,127 @@
-## Hello, world! :wave:
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:F8B195,50:F67280,100:C06C84" width="100%">
 
-I'm Nathan, a fullstack developer studying Combinatorics & Optimization and Computational Mathematics at the University of Waterloo.
+<p align="center">
+  <a href="https://expitau.com"><img alt="Website bento" src="./bento/website.svg"></img></a>
+  <a href="mailto:expitau@gmail.com"><img alt="Email bento" src="./bento/email.svg"></img></a>
+  <a href="https://discord.com/"><img alt="Discord bento" src="./bento/discord.svg"></img></a>
+  <a href="https://www.linkedin.com/in/nathan-dsilva/"><img alt="Linkedin bento" src="./bento/linkedin.svg"></img></a>
+  <a href="https://expitau.itch.io/"><img alt="Itch bento" src="./bento/itch.svg"></img></a>
+  <a href="https://github.com/expitau"><img alt="Github bento" src="./bento/github.svg"></img></a>
+</p>
 
----
+## Hello hello! 👋
 
-### :bulb: About me
-I'm a highly motivated software developer with several years of professional experience and a proven ability to deliver high-quality, maintainable code. I'm enthusiastic about programming, with dozens of personal projects and a diverse range of interests. I use Fedora Linux, my favorite programming languages are Rust and Javascript (Vue), and I eat a lot of chicken ❤️
+I'm Nathan, a professional developer with several years of experience and a diverse set of interests. I'm currently in my **final term** of studying Computational Mathematics at the University of Waterloo. 
 
----
+When I'm not working on side projects or contributing to open-source, I enjoy going on walks, playing board games, and doing escape rooms. I'm passionate about a lot of things, ask me about:
+- 📈 Mathematical investing
+- 🌱 Effective altruism
+- 🎲 Stochastic computing
+- 🐈‍⬛ Foreign cats
 
-### :pencil2: Why "expitau"?
+### 🖋️ Why "expitau"?
 
-The moniker "expitau" is inspired by the mathematical expression $\exp(i \tau)$ – an embodiment of Euler's formula: 
+You'll probably see my handle "expitau" on my website, email, and github. It's actually inspired by a mathematical expression!
 
 $$e^{ix} = \cos(x) + i\sin(x)$$
 
-When $x = \tau$ (and $\tau = 2\pi$), this formula simplifies to $e^{i \tau} = 1$. Euler's formula, in its essence, is a beautiful, elegant solution to complex mathematical problems. It seamlessly bridges the seemingly unrelated worlds of calculus, trigonometry, and complex numbers.
+When we evaluate this expression at $\tau$ (where $\tau = 2\pi$), this formula simplifies to $e^{i \tau} = 1$! Euler's formula is a beautiful, elegant solution to a complex mathematical problem. It seamlessly bridges the seemingly unrelated worlds of calculus, trigonometry, and complex numbers. I believe that complex challenges often have an underlying simplicity, and code should look to unearth this simplicity to be readable, maintainable, and efficient.
 
-Such elegance and simplicity in solutions is the philosophy I strive to emulate in my programming. I believe that the most complex challenges often have an underlying simplicity, and code should look to unearth this simplicity to be readable, maintainable, and efficient.
+### ⚙️ My Toolbox
+Here are some tools I am **exceptionally** proficient with:
+
+![Docker Badge](https://img.shields.io/badge/-Docker-3B4252?logo=Docker&style=for-the-badge)
+![Linux Badge](https://img.shields.io/badge/-Linux-3B4252?logo=Linux&style=for-the-badge)
+![Javascript Badge](https://img.shields.io/badge/-Javascript-3B4252?logo=Javascript&style=for-the-badge)
+![VSCode Badge](https://img.shields.io/badge/-VSCode-3B4252?logo=VSCode&style=for-the-badge)
+
+The above are tools I have far beyond any reasonable understanding of. I'm familiar with all of their tricks and secrets, I've tried to do some esoteric projects with them, and I've likely read through their source code. 
+
+In addition to these, I've used a lot of technologies, so it's very challenging to make a comprehensive list. Here are some more I've worked with:
+
+<details>
+  <summary><strong>Programming Languages (click to expand)</strong></summary>
+
+###### Web Programming Languages
+  > ![Javascript Badge](https://img.shields.io/badge/-Javascript-3B4252?logo=javascript&style=flat)
+  > ![Typescript Badge](https://img.shields.io/badge/-Typescript-3B4252?logo=typescript&style=flat)
+  > ![PHP Badge](https://img.shields.io/badge/-PHP-3B4252?logo=php&style=flat)
+  > ![CSS3 Badge](https://img.shields.io/badge/-CSS3-3B4252?logo=css3&style=flat)
+  > ![SASS Badge](https://img.shields.io/badge/-SASS-3B4252?logo=sass&style=flat)
+  > ![HTML5 Badge](https://img.shields.io/badge/-HTML5-3B4252?logo=html5&style=flat)
+
+###### Application Programming Languages
+  > ![C# Badge](https://img.shields.io/badge/-C%20Sharp-3B4252?logo=c-sharp&style=flat)
+  > ![Java Badge](https://img.shields.io/badge/-Java-3B4252?logo=openjdk&style=flat)
+
+###### Scripting Programming Languages
+  > ![Python Badge](https://img.shields.io/badge/-Python-3B4252?logo=python&style=flat)
+  > ![R Badge](https://img.shields.io/badge/-R-3B4252?logo=r&style=flat)
+  > ![GNU Badge](https://img.shields.io/badge/-GNU%20Bash-3B4252?logo=gnu-bash&style=flat)
+  > ![Powershell Badge](https://img.shields.io/badge/-Powershell-3B4252?logo=powershell&style=flat)
+  > ![AutoHotkey Badge](https://img.shields.io/badge/-AutoHotkey-3B4252?logo=autohotkey&style=flat)
+
+###### Foundational Programming Languages
+  > ![Rust Badge](https://img.shields.io/badge/-Rust-3B4252?logo=rust&style=flat)
+  > ![C Badge](https://img.shields.io/badge/-C-3B4252?logo=c&style=flat)
+  > ![C++ Badge](https://img.shields.io/badge/-C++-3B4252?logo=c%2B%2B&style=flat)
+
+###### Markdown & Configuration Languages
+  > ![Markdown Badge](https://img.shields.io/badge/-Markdown-3B4252?logo=markdown&style=flat)
+  > ![YAML Badge](https://img.shields.io/badge/-YAML-3B4252?logo=yaml&style=flat)
+  > ![JSON Badge](https://img.shields.io/badge/-JSON-3B4252?logo=json&style=flat)
+  > ![TOML Badge](https://img.shields.io/badge/-TOML-3B4252?logo=toml&style=flat)
+  > ![XML Badge](https://img.shields.io/badge/-XML-3B4252?logo=xml&style=flat)
+  > ![INI Badge](https://img.shields.io/badge/-INI-3B4252?logo=ini&style=flat)
+  > ![CSV Badge](https://img.shields.io/badge/-CSV-3B4252?logo=csv&style=flat)
+</details>
+
+<details>
+  <summary><strong>Libraries and Frameworks (click to expand)</strong></summary>
+
+###### Web Frameworks
+  > ![Node Badge](https://img.shields.io/badge/-Node.js-3B4252?logo=node.js&style=flat)
+  > ![Vue Badge](https://img.shields.io/badge/-Vue.js-3B4252?logo=vue.js&style=flat)
+  > ![React Badge](https://img.shields.io/badge/-React-3B4252?logo=react&style=flat)
+  > ![Svelte Badge](https://img.shields.io/badge/-Svelte-3B4252?logo=svelte&style=flat)
+  > ![Astro Badge](https://img.shields.io/badge/-Astro-3B4252?logo=astro&style=flat)
+  > ![Electron Badge](https://img.shields.io/badge/-Electron-3B4252?logo=electron&style=flat)
+
+###### Web Libraries
+  > ![Tailwind Badge](https://img.shields.io/badge/-Tailwind%20CSS-3B4252?logo=tailwind-css&style=flat)
+  > ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-3B4252?logo=bootstrap&style=flat)
+</details>
+
+
+<details>
+  <summary><strong>Ops & Deployment (click to expand)</strong></summary>
+
+###### Databases
+  > ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3B4252?logo=mongodb&style=flat)
+  > ![MySQL Badge](https://img.shields.io/badge/-MySQL-3B4252?logo=mysql&style=flat)
+  > ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-3B4252?logo=postgresql&style=flat)
+
+###### Development Tools, Operating Systems, IDEs
+  > ![VSCode Badge](https://img.shields.io/badge/-VSCode-3B4252?style=flat)
+  > ![Visual Studio Badge](https://img.shields.io/badge/-Visual%20Studio-3B4252?style=flat)
+  > ![Git Badge](https://img.shields.io/badge/-Git-3B4252?logo=git&style=flat)
+  > ![Github Badge](https://img.shields.io/badge/-Github-3B4252?logo=github&style=flat)
+  > ![Linux Badge](https://img.shields.io/badge/-Linux-3B4252?logo=linux&style=flat)
+  > ![Windows Badge](https://img.shields.io/badge/-Windows-3B4252?logo=windows&style=flat)
+  > ![Unity Badge](https://img.shields.io/badge/-Unity-3B4252?logo=unity&style=flat)
+
+###### Infrastructure
+  > ![Docker Badge](https://img.shields.io/badge/-Docker-3B4252?logo=docker&style=flat)
+  > ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-3B4252?logo=kubernetes&style=flat)
+  > ![Amazon Badge](https://img.shields.io/badge/-Amazon%20AWS-3B4252?logo=amazonwebservices&style=flat)
+  > ![Portainer Badge](https://img.shields.io/badge/-Portainer-3B4252?logo=portainer&style=flat)
+  > ![Watchtower Badge](https://img.shields.io/badge/-Watchtower-3B4252?logo=watchtower&style=flat)
+  > ![CircleCI Badge](https://img.shields.io/badge/-CircleCI-3B4252?logo=circleci&style=flat)
+  > ![Terraform Badge](https://img.shields.io/badge/-Terraform-3B4252?logo=terraform&style=flat)
+</details>
 
 ---
 
-### :wrench: Tech Stack
-
-#### :art: Frontend
-<span>
-<img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-<br>
-<img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=flat" />
-<br>
-<img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=tailwind css&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
-</span>
-
-#### :gear: Backend
-<span>
-<img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" />
-<br>
-<img src="https://img.shields.io/badge/-C%20/%20C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-C%23-239120?logo=c sharp&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat" />
-<br>
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
-</span>
-
-#### :toolbox: Tools
-<span>
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-CircleCI-343434?logo=circleci&logoColor=white&style=flat" />
-<br>
-<img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Amazon AWS-232F3E?logo=amazon aws&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Portainer-13BEF9?logo=portainer&logoColor=white&style=flat" />
-<br>
-<img src="https://img.shields.io/badge/-GNU Bash-4EAA25?logo=gnu bash&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&logoColor=white&style=flat" />
-<br>
-<img src="https://img.shields.io/badge/-AutoHotkey-334455?logo=autohotkey&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Visual studio Code-007ACC?logo=visual studio code&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black&style=flat" /></span>
-</span>
-
----
 <a href="https://github.com/expitau#gh-dark-mode-only">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=expitau&hide=issues&show_icons=true&theme=github_dark_dimmed#gh-dark-mode-only" />
 </a>
@@ -89,6 +134,3 @@ Such elegance and simplicity in solutions is the philosophy I strive to emulate 
 <a href="https://github.com/expitau#gh-light-mode-only">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expitau&hide=css,astro,jupyter%20notebook,vue,typescript&exclude_repo=Catgame,Timetable-Dashboard&layout=compact&theme=default#gh-light-mode-only" />
 </a>
-
-### :mailbox_with_mail: Get in Touch!
-<a title="expitau@gmail.com" href="mailto:expitau@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>

@@ -1,0 +1,59 @@
+<svg fill="none" viewBox="0 0 128 128" width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+    <style>
+      .bento {
+        background: #506365;
+        width: 100%;
+        height: 128px;
+        border-radius: 0.5rem;
+        padding: 0.8rem;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        position: relative;
+        margin: 0;
+        box-sizing: border-box;
+        font-family: 'Noto Sans', sans-serif;
+      }
+
+      .bento:hover {
+        text-decoration: underline;
+      }
+
+      .bento-img {
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+        filter: drop-shadow(0 4px 3px rgb(0 0 0 / 0.07)) drop-shadow(0 2px 2px rgb(0 0 0 / 0.06));
+      }
+
+      .bento-title {
+        font-weight: 600;
+        font-size: 14px;
+        filter: drop-shadow(0 4px 3px rgb(0 0 0 / 0.07)) drop-shadow(0 2px 2px rgb(0 0 0 / 0.06));
+      }
+
+      .bento-desc {
+        font-weight: 400;
+        font-size: 11px;
+        filter: drop-shadow(0 4px 3px rgb(0 0 0 / 0.07)) drop-shadow(0 2px 2px rgb(0 0 0 / 0.06));
+        margin-top: -0.2rem
+      }
+    </style>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="bento">
+        <div
+          style="position: absolute; inset: 0; background: radial-gradient(circle at top left, rgba(0,0,0,0), rgba(0, 0, 0, 0.2));">
+        </div>
+        <svg xmlns="http://www.w3.org/2000/svg" fill="#ffffff" width="32" height="32" role="img" viewBox="0 0 24 24"
+          class="bento-img">
+          <title>htmx</title><path d="M0 13.01v-2l7.09-2.98.58 1.94-5.1 2.05 5.16 2.05-.63 1.9Zm16.37 1.03 5.18-2-5.16-2.09.65-1.88L24 10.95v2.12L17 16zm-2.85-9.98H16l-5.47 15.88H8.05Z"/>
+        </svg>
+
+        <div class="bento-title">Website</div>
+        <div class="bento-desc">expitau.com</div>
+      </div>
+    </div>
+	</foreignObject>
+</svg>
