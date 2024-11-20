@@ -14,6 +14,7 @@
 I'm Nathan, a professional developer with several years of experience and a diverse set of interests. I'm currently in my **final term** of studying Computational Mathematics at the University of Waterloo. 
 
 When I'm not working on side projects or contributing to open-source, I enjoy going on walks, playing board games, and doing escape rooms. I'm passionate about a lot of things, ask me about:
+- 🚗 Urban planning
 - 📈 Mathematical investing
 - 🌱 Effective altruism
 - 🎲 Stochastic computing
