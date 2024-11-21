@@ -57,8 +57,9 @@ In addition to these, I've used a lot of technologies, so it's very challenging 
 
 ###### Scripting Programming Languages
   > ![Python Badge](https://img.shields.io/badge/-Python-3B4252?logo=python&style=flat)
-  > ![R Badge](https://img.shields.io/badge/-R-3B4252?logo=r&style=flat)
+  > ![Node Badge](https://img.shields.io/badge/-Node.js-3B4252?logo=node.js&style=flat)
   > ![GNU Badge](https://img.shields.io/badge/-GNU%20Bash-3B4252?logo=gnu-bash&style=flat)
+  > ![R Badge](https://img.shields.io/badge/-R-3B4252?logo=r&style=flat)
   > ![Powershell Badge](https://img.shields.io/badge/-Powershell-3B4252?logo=powershell&style=flat)
   > ![AutoHotkey Badge](https://img.shields.io/badge/-AutoHotkey-3B4252?logo=autohotkey&style=flat)
 
@@ -81,7 +82,6 @@ In addition to these, I've used a lot of technologies, so it's very challenging 
   <summary><strong>Libraries and Frameworks (click to expand)</strong></summary>
 
 ###### Web Frameworks
-  > ![Node Badge](https://img.shields.io/badge/-Node.js-3B4252?logo=node.js&style=flat)
   > ![Vue Badge](https://img.shields.io/badge/-Vue.js-3B4252?logo=vue.js&style=flat)
   > ![React Badge](https://img.shields.io/badge/-React-3B4252?logo=react&style=flat)
   > ![Svelte Badge](https://img.shields.io/badge/-Svelte-3B4252?logo=svelte&style=flat)
