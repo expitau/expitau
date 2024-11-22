@@ -30,11 +30,11 @@ When we evaluate this expression at $\tau$ (where $\tau = 2\pi$), this formula s
 
 ### ⚙️ My Toolbox
 Here are some tools I am **exceptionally** proficient with:
-
-![Docker Badge](https://img.shields.io/badge/-Docker-3B4252?logo=Docker&style=for-the-badge)
-![Linux Badge](https://img.shields.io/badge/-Linux-3B4252?logo=Linux&style=for-the-badge)
-![Javascript Badge](https://img.shields.io/badge/-Javascript-3B4252?logo=Javascript&style=for-the-badge)
-![VSCode Badge](https://img.shields.io/badge/-VSCode-3B4252?logo=VSCode&style=for-the-badge)
+ 
+<a href="https://www.docker.com/"><img alt="Docker badge" src="./bento/docker-badge.svg"></img></a>
+<a href="https://archlinux.org/"><img alt="Linux badge" src="./bento/linux-badge.svg"></img></a>
+<a href="https://www.w3schools.com/js/"><img alt="Javascript badge" src="./bento/javascript-badge.svg"></img></a>
+<a href="https://code.visualstudio.com/"><img alt="VSCode badge" src="./bento/vscode-badge.svg"></img></a>
 
 The above are tools I have far beyond any reasonable understanding of. I'm familiar with all of their tricks and secrets, I've tried to do some esoteric projects with them, and I've likely read through their source code. 
 
